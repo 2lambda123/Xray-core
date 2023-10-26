@@ -21,12 +21,12 @@ require (
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e
 	github.com/xtls/reality v0.0.0-20230331223127-176a94313eda
 	go.starlark.net v0.0.0-20230302034142-4b1e35fe2254
-	golang.org/x/crypto v0.8.0
-	golang.org/x/net v0.9.0
-	golang.org/x/sync v0.2.0
-	golang.org/x/sys v0.8.0
-	google.golang.org/grpc v1.55.0
-	google.golang.org/protobuf v1.30.0
+	golang.org/x/crypto v0.12.0
+	golang.org/x/net v0.14.0
+	golang.org/x/sync v0.3.0
+	golang.org/x/sys v0.11.0
+	google.golang.org/grpc v1.59.0
+	google.golang.org/protobuf v1.31.0
 	gvisor.dev/gvisor v0.0.0-20220901235040-6ca97ef2ce1c
 	h12.io/socks v1.0.3
 	lukechampine.com/blake3 v1.1.7
@@ -51,10 +51,10 @@ require (
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
 	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.8.0 // indirect
-	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
